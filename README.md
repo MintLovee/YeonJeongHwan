@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Hey! There?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hey!There?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 <br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/YeonJeongHwan?style=social">
 
