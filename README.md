@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=🌱learning...&fontSize=90&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=🌱learning...&fontSize=90&fontAlign=50)
 
 <img src="https://img.shields.io/badge/#007396?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
